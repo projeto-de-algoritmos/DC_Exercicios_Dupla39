@@ -13,16 +13,16 @@
 Este trabalho envolve a resolução de exercícios que abordam o conteúdo do módulo de Algoritmos de Dividir e Conquistar da disciplina de Projeto de Algoritmos. O foco principal é a aplicação de algoritmos em problemas relacionados a toda a classe de problemas que possam ser resolvidos utilizando algoritmos de dividir e conquistar.
 
 ## Screenshots
-### Exercicio 1 - ""
-**Nível do exercício:** 
+### Exercicio 1 - "Count of Smaller Numbers After Self "
+**Nível do exercício: Difícil** 
 
-![---]()
+![---](315.png)
 
-Para acessar a página do exercício [clique aqui]()
+Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
 
 **Linguagem**: Python<br>
 **Framework**: <br>
-### Vídeo do Exercício 1 [clique aqui]()
+### Vídeo do Exercício 1 [clique aqui](https://www.youtube.com/watch?v=LHVDWGMk0LY&t=5s)
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
