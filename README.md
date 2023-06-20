@@ -16,13 +16,26 @@ Este trabalho envolve a resolução de exercícios que abordam o conteúdo do m�
 ### Exercicio 1 - "Count of Smaller Numbers After Self "
 **Nível do exercício: Difícil** 
 
-![---](315.png)
+![315](./images/315.png)
 
 Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
 
 **Linguagem**: Python<br>
 **Framework**: <br>
 ### Vídeo do Exercício 1 [clique aqui](https://www.youtube.com/watch?v=LHVDWGMk0LY&t=5s)
+
+## Screenshots
+### Exercicio 1 - "Reverse Pairs "
+**Nível do exercício: Difícil** 
+
+![493](./images/493.png)
+
+Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/reverse-pairs/description/)
+
+**Linguagem**: Python<br>
+**Framework**: <br>
+### Vídeo do Exercício 1 [clique aqui](em breve)
+
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
