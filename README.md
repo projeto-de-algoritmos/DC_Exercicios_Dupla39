@@ -34,7 +34,7 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 
 **Linguagem**: Python<br>
 **Framework**: <br>
-### Vídeo do Exercício 1 [clique aqui](em breve)
+### Vídeo do Exercício 1 [clique aqui](https://youtu.be/zPw4zxG_7vI)
 
 
 ## Outros 
