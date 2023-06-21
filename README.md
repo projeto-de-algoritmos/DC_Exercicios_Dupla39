@@ -22,10 +22,10 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 
 **Linguagem**: Python<br>
 **Framework**: <br>
-### Vídeo do Exercício 1 [clique aqui](https://www.youtube.com/watch?v=LHVDWGMk0LY&t=5s)
+### Vídeo do Exercício 2 [clique aqui](https://www.youtube.com/watch?v=LHVDWGMk0LY&t=5s)
 
 ## Screenshots
-### Exercicio 1 - "Reverse Pairs "
+### Exercicio 2 - "Reverse Pairs"
 **Nível do exercício: Difícil** 
 
 ![493](./images/493.png)
@@ -36,6 +36,27 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 **Framework**: <br>
 ### Vídeo do Exercício 1 [clique aqui](https://youtu.be/zPw4zxG_7vI)
 
+<br>
+<br>
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## Instalação 
+**Linguagem**: Python<br>
+
+Caso queira testar localmente é necessário instalar python:
+
+- ### Windows
+Baixe o pacote Python do [site official](https://www.python.org/downloads/), e no momento da instação, marque a opção "Add Python to PATH".
+
+- ### Linux
+Execute no terminal do linux a atualização dos pacotes e instalação do python3
+
+```bash
+sudo apt-get update
+sudo apt-get install python3
+```
+
+
+## Uso 
+Para verificar o funcionamento basta abrir o link do exercicio e copiar o código referente a questão, e logo após realizar o envio. Caso queira verificar localmente, é necessário executar o programa, e para isto basta utilizar o comando:
+
+`python NomeDoArquivo.py`
