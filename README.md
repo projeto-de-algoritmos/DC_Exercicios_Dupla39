@@ -35,7 +35,8 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 
 **Linguagem**: Python<br>
 **Framework**: <br>
-### Vídeo do Exercício 1 [clique aqui](https://youtu.be/zPw4zxG_7vI)
+### Vídeo do Exercício 2
+O arquivo do vídeo (.mp4) do exercício dois se encontra na pasta videos -> [video](https://github.com/projeto-de-algoritmos/DC_Exercicios_Dupla39/tree/master/videos)
 
 <br>
 <br>
