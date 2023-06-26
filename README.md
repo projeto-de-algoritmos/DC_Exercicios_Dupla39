@@ -25,7 +25,7 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 ### Vídeo do Exercício 1
 O arquivo do vídeo (.mp4) do exercício um se encontra na pasta videos -> [video](https://github.com/projeto-de-algoritmos/DC_Exercicios_Dupla39/tree/master/videos)
 
-Vídeo no Youtube [clique aqui](https://www.youtube.com/watch?v=LHVDWGMk0LY&t=5s)
+Disponível também no Youtube [clique aqui](https://www.youtube.com/watch?v=LHVDWGMk0LY&t=5s)
 
 ## Screenshots
 ### Exercicio 2 - "Reverse Pairs"
@@ -40,7 +40,7 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 ### Vídeo do Exercício 2
 O arquivo do vídeo (.mp4) do exercício dois se encontra na pasta videos -> [video](https://github.com/projeto-de-algoritmos/DC_Exercicios_Dupla39/tree/master/videos)
 
-Vídeo no Youtube [clique aqui](https://youtu.be/zPw4zxG_7vI)
+Disponível também no Youtube [clique aqui](https://youtu.be/zPw4zxG_7vI)
 
 <br>
 <br>
