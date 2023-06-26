@@ -22,7 +22,8 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 
 **Linguagem**: Python<br>
 **Framework**: <br>
-### Vídeo do Exercício 2 [clique aqui](https://www.youtube.com/watch?v=LHVDWGMk0LY&t=5s)
+### Vídeo do Exercício 1
+O arquivo do vídeo (.mp4) do exercício um se encontra na pasta videos -> [video](https://github.com/projeto-de-algoritmos/DC_Exercicios_Dupla39/tree/master/videos)
 
 ## Screenshots
 ### Exercicio 2 - "Reverse Pairs"
